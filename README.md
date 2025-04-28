@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Yadira16188/Yadira16188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am 18 years old and I like sleeping and eating pizza.
+# Hi, I'm  Yadira! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on babysitter
+
+🧠 I'm currently learning software analysis and development
+
+👯‍♀️ I'm looking to collaborate on the software development area
+
+💬 Ask me about software development
+
+📫 You can reach me through this medium or through my social networks.
+
+⚡️ Fun fact (I get stressed very quickly)
+
+
+## 🛠 Skills
+python,html,,css
+
+
